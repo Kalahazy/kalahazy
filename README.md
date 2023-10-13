@@ -1,9 +1,9 @@
 <h1 align='center'>
   Hi there 👋 I'm Brandon 👨‍💻
 </h1>
-<p align='center'>
+<h3 align='center'>
   Full Stack Developer
-</p>
+</h3>
 <div align='center'>
   <a href="https://www.linkedin.com/in/palaciosbrandon/">
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
@@ -12,8 +12,9 @@
 
 <div>
   <img align='right' src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width='150'>
-  💻 I’m currently working with...
-    <br/><br/>
+  <h3>
+    💻 I’m currently working with...
+  </h3>
   <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java"/>
   <img src="https://img.shields.io/badge/Spring_Boot-00A951?style=for-the-badge&logo=spring-boot&logoColor=white" alt="SpringBoot"/>
   <img src="https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=white" alt="Eclipse"/>
@@ -45,9 +46,13 @@
 <div align='center'>
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kalahazy&theme=dark"/>
 </div>
-
+<br/>
 <details>
-  <summary>📃 Resume</summary>
+  <summary>
+    <h3>
+      📃 Resume
+    </h3>
+  </summary>
 
 
 ## 📖Education
