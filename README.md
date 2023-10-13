@@ -70,7 +70,7 @@
 
 - **LinkGameIn SN-Development**\
 📆 08/2023 - Present\
-📍 **Generation México** - Remote, México
+📍 *Generation México* - Remote, México
 
 </details>
 
