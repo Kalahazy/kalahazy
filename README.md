@@ -15,7 +15,7 @@
   💻 I’m currently working with...
     <br/><br/>
   <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java"/>
-  <img src="https://img.shields.io/badge/Spring_Boot-00FF7F?style=for-the-badge&logo=spring-boot&logoColor=white" alt="SpringBoot"/>
+  <img src="https://img.shields.io/badge/Spring_Boot-00A951?style=for-the-badge&logo=spring-boot&logoColor=white" alt="SpringBoot"/>
   <img src="https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=white" alt="Eclipse"/>
   <br/>
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
