@@ -11,6 +11,7 @@
 </div>
 
 <div>
+  <img align='right' src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width='150'>
   💻 I’m currently working with...
     <br/><br/>
   <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java"/>
@@ -43,9 +44,32 @@
 <br/>
 <div align='center'>
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kalahazy&theme=dark"/>
-  <img align='right' src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width='150'>
 </div>
 
+<details>
+  <summary>📃 Resume</summary>
+
+
+## 📖Education
+
+- **Java Full Stack Developer**\
+📆 08/2023 - Present\
+📍 *Generation México* - Remote, México
+
+- **Mechatronics Engineering**\
+📆 08/2015 - 11/2020\
+📍 *Queretaro Institute of Technology* - Querétaro, México
+
+
+## 👨‍💻 Experience
+
+<img align="right" src="https://img.shields.io/badge/Xamarin%20Forms-3498DB?logo=xamarin&logoColor=white" />
+
+- **LinkGameIn SN-Development**\
+📆 08/2023 - Present\
+📍 **Generation México** - Remote, México
+
+</details>
 
 <!--
 **Kalahazy/kalahazy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
