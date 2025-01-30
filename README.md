@@ -57,10 +57,6 @@
 
 ## 📖Education
 
-- **Java Full Stack Developer**\
-📆 08/2023 - Present\
-📍 *Generation México* - Remote, México
-
 - **Mechatronics Engineering**\
 📆 08/2015 - 11/2020\
 📍 *Queretaro Institute of Technology* - Querétaro, México
@@ -68,8 +64,12 @@
 
 ## 👨‍💻 Experience
 
+- **Software Engineer**\
+📆 11/2023 - Present\
+📍 *YoBoss + WayaKloud* - Remote, México
+
 - **LinkGameIn SN-Development**\
-📆 08/2023 - Present\
+📆 08/2023 - 11/2023\
 📍 *Generation México* - Remote, México
 
 </details>
