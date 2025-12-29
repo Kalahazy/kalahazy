@@ -88,7 +88,7 @@
 👨‍💻 Experience
 
 - **Fullstack Developer Mid**\
-📆 05/2025 - Actually\
+📆 05/2025 - Present\
 📍 *Vemasmas* - Queretaro, Mexico
 
 - **Software Engineer**\
