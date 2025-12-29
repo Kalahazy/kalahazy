@@ -87,8 +87,12 @@
 
 👨‍💻 Experience
 
+- **Fullstack Developer Mid**\
+📆 05/2025 - Actually\
+📍 *Vemasmas* - Queretaro, Mexico
+
 - **Software Engineer**\
-📆 11/2023 - 05/2023\
+📆 11/2023 - 05/2025\
 📍 *YoBoss + WayaKloud* - Remote, Mexico
 
 - **Fullstack Developer & Scrum Master**\
